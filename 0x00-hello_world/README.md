@@ -1,1 +1,1 @@
-This Particular directory contains the solution the 0xoo-hello_world tasks
+This particular directory contains the solution to the 0x00-hello_world tasks
